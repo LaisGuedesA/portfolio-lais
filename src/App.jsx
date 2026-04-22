@@ -1,6 +1,6 @@
-import Menu from "./componentes/Menu/Menu.jsx";
-import Banner from "./componentes/Banner/Banner.jsx";
-import Projects from "./componentes/Projects/Projects.jsx";
+import Menu from "./components/Menu/Menu.jsx";
+import Banner from "./components/Banner/Banner.jsx";
+import Skills from "./components/Skills/Skills.jsx";
 
 export default function App() {
 
@@ -8,7 +8,7 @@ export default function App() {
     <div>
       <Menu />
       <Banner />
-      <Projects />
+      < Skills/>
     </div>
 
   )

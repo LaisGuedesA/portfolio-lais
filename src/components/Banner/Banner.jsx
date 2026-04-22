@@ -5,10 +5,10 @@ export default function Banner() {
         <header className={styles.heroSection}>
             <section className={styles.sectioLeft}>
                 <p className={styles.subtitle}>Hello, I'm 👋🏽</p>
-                   <p className={styles.name}>Laís Guedes</p>
+                <p className={styles.name}>Laís Guedes</p>
                 <p className={styles.title}>FULL STACK DEVELOPER</p>
-                <p className={styles.phrase}>Transformo ideias em experiências digitais modernas, acessíveis e impactantes. 
-                    <p className={styles.phrase}>Vamos construir algo incrível juntos?</p></p>
+                <p className={styles.phrase}>Transformo ideias em experiências digitais modernas, acessíveis e impactantes. </p>
+                <p className={styles.phrase}>Vamos construir algo incrível juntos?</p>
                 <span className={styles.contact}>
                     <button className={styles.projects}>View Projects</button>
                     <button className={styles.resume}>Download Resume</button>
